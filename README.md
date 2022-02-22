@@ -2,6 +2,10 @@
 
 Repositório criado com intuito de ajudar a instalação do Ruby utilizando processadores Apple Silicon (m1).
 
+# Requisitos
+
+* XCode (App Store)
+
 # Instalando o Ruby
 
 Primeiro devemos aceitar a licença do Xcode. Para isto, rode o seguinte comando:
